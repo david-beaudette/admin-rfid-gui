@@ -1,0 +1,21 @@
+Todo for management:
+- Create management database for access servers, hostnames, passwords, commutators
+  + Draft on personal Dropbox
+- GUI requirements:
+  + See the state of each server and commutator
+  + Download commutator event list
+  + Produce statistics on commutator usage
+    * Pie chart of users display with calendar control
+  + Configure commutator to server assignations
+  + Update server software
+  + Enable, disable, auto, simple/double activation mode on commutators
+  
+- Document design and implementation on Wiki  
+  
+
+
+
+
+
+
+
