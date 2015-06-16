@@ -1,0 +1,8 @@
+Raspberry Pi configuration to build the access server web app
+1. Configure the RPi for the access server (refer to the pi-access-server procedure)
+  
+2. Install the Python webpy framework
+  sudo apt-get install python-webpy
+  
+3. Pull the source code for the admin-rfid-gui from Github.
+  svn export https://github.com/david-beaudette/admin-rfid-gui/trunk/ ~/admin-rfid-gui
